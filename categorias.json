@@ -1,18 +1,18 @@
 [
     {
-        "categoria": "CreepyPasta",
+        "name": "CreepyPasta",
         "descripcion": "Los creepypastas son historias cortas de terror recogidas y compartidas a través de Internet, como en foros, blogs o videos de YouTube, con la intención de asustar o inquietar al lector, cuyos límites entre realidad y ficción permanecen difusos.​​"
     },
     {
-        "categoria": "Extraterrestres",
+        "name": "Extraterrestres",
         "descripcion": "El término vida extraterrestre se refiere al hipotético tipo de vida que pueda existir fuera del planeta Tierra y que no se haya originado en él. Tal vida puede variar desde simples procariotas hasta seres con civilizaciones mucho más avanzadas que la humanidad.​​"
     },
     {
-        "categoria": "Fantasmas",
+        "name": "Fantasmas",
         "descripcion": "Los fantasmas, en el folclore de muchas culturas, son supuestos espíritus o almas errantes de seres muertos que se manifiestan entre los vivos de forma perceptible, principalmente en lugares que frecuentaban en vida, o en asociación con sus personas cercanas."
     },
     {
-        "categoria": "Ovnis",
+        "name": "Ovnis",
         "descripcion": "El término objeto volador no identificado, más conocido por el acrónimo ovni, ​​ se refiere a la observación de un objeto volador, real o aparente, que no puede ser identificado por el observador y cuyo origen sigue siendo desconocido después de una investigación."
     }
 ]
