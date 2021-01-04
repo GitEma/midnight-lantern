@@ -1,24 +1,28 @@
 [
     {
         "nombre": "No solo los perros lamen",
+        "id": 1,
         "categoria": "CreepyPasta",
         "descripcion": "Una niña de 9 años, hija única y de padres pudientes de gran influencia tenía todo lo que hubiese querido y deseado una niña, pero con una soledad incomparable.",
         "historia": "Esto pasó en una pequeña ciudad de Francia y salió en todos los periódicos locales. Una niña de 9 años, hija única y de padres pudientes de gran influencia tenía todo lo que hubiese querido y deseado una niña, pero con una soledad incomparable.Sus padres solían salir a fiestas y reuniones del ámbito político, y la dejaban sola. Todo cambió cuando le compraron un cachorro de raza grande, pasaron los años y la niña y el perro se volvieron inseparables. Incluso crearon un vínculo especial, el perro se metía debajo de la cama a dormir con ella todas las noches y cuando la niña se sentía angustiada o asustada asomaba la mano por debajo de la cama y se dejaba lamer la mano por el perro, era como un código entre ella y el perro, y ella se tranquilizaba. Una noche, los padres se pasaron a despedirse de la niña antes de ir a una cena, estos se fueron como muchas otras veces y pronto la niña se sumió en un sueño profundo. En la noche, un fuerte ruido la despertó, eran como rasguños leves y luego más fuertes. Ella temerosa, bajó la mano para que el perro la lamiese entonces sintió la húmeda lengua del perro y se tranquilizó, poco después se quedó durmiendo de nuevo. Cuando se despertó por la mañana descubrió algo espantoso, el perro no estaba debajo de la cama como de costumbre, ella bajó las escaleras de su gran casa hasta el pasillo del recibidor, para encontrarse con una desagradable sorpresa, su perro estaba ahorcado en el pasillo con una herida enorme en el estómago, y en el espejo del recibidor rezaba un mensaje que decía; 'No sólo los perros lamen'. Se dice que cuando los padres volvieron, la niña estaba totalmente trastornada y sólo decía: ¿Quién me lamió?.Aún se busca al autor de tal aberración."
     },
     {
         "nombre": "Al borde de la supervivencia",
+        "id": 2,
         "categoria": "CreepyPasta",
         "descripcion": "En Berlín, tras el fin de la Segunda Guerra Mundial, el dinero escaseaba, los suministros se agotaban, y parecía que todo el mundo moría de hambre.",
         "historia": "En Berlín, tras el fin de la Segunda Guerra Mundial, el dinero escaseaba, los suministros se agotaban, y parecía que todo el mundo moría de hambre. Durante este período, las personas contaron la historia de una joven que decidió ayudar a un hombre que caminaba a ciegas entre una multitud. La leyenda cuenta que ambos comenzaron a conversar y el hombre le preguntó si podía hacerle un favor: “¿Podrías entregar esta carta en la dirección escrita en el sobre?” Bueno, el lugar le quedaba de camino a su casa, por lo que ella acepto sin más. La chica comenzó su camino para entregar el mensaje, cuando notó algo en la dirección, un número que no podía distinguir, no sabía si se trataba de un “4″ o “9″. Se volvió de nuevo hacia el hombre ciego y se dio cuenta de que había emprendido una huida entre la gente sin sus gafas oscuras ni su bastón, como si estuviera huyendo. Ella, por supuesto, encontró aquella actitud sospechosa, y en lugar de ir a casa fue a la policía. La policía, que tenía sospechas de que algo estaba pasando en la región por los incidentes registrados, visitó la dirección para comprobar si existía alguna conexión con sus sospechas. Una vez allí, hicieron un descubrimiento aterrador, tres carniceros cortaban carne humana y la vendían a la gente hambrienta por un precio amigable. ¿Sabes lo que había en la carta que el hombre le dio a la joven? Una nota, apenas se limitaba a decir: “Esta es la última que mando para ustedes hoy.” "
     },
     {
         "nombre": "Roswell 1947",
+        "id": 3,
         "categoria": "Ovnis",
         "descripcion": "El incidente más famoso de la historia ocurrió en Nuevo México, en julio de 1947 cuando presuntamente un OVNI se estrello en un rancho cerca de Roswell.",
         "historia": "El incidente más famoso de la historia ocurrió en Nuevo México, en julio de 1947 cuando presuntamente un OVNI se estrello en un rancho cerca de Roswell."
     },
     {
         "nombre": "Abducción de los Hill",
+        "id": 4,
         "categoria": "Ovnis",
         "descripcion": "El matrimonio formado por Betty y Barney Hill alcanzó la fama al afirmar que habían sido secuestrados por alienígenas entre el 19 y el 20 de septiembre de 1961.",
         "historia": "El matrimonio formado por Betty y Barney Hill alcanzó la fama al afirmar que habían sido secuestrados por alienígenas entre el 19 y el 20 de septiembre de 1961."
