@@ -100,7 +100,7 @@
     {
         "nombre": "La chica de la curva",
         "id": 5,
-        "categoria": ["Fantasmas, creepypasta"],
+        "categoria": ["Fantasmas, CreepyPasta"],
         "descripcion": "Existen diferentes versiones, pero todas ellas tienen un denominador común: una joven en un vestido blanco.",
         "historia": 
         [
@@ -130,7 +130,7 @@
     {
         "nombre": "El visitante nocturno",
         "id": 7,
-        "categoria": ["Fantasmas, creepypasta"],
+        "categoria": ["Fantasmas, CreepyPasta"],
         "descripcion": "Leonor se mudaba de nuevo. Cada vez que se cambiaban de casa le costaba conciliar el sueño.",
         "historia": 
         [
