@@ -54,7 +54,7 @@
     {
         "nombre": "Abducción de los Hill",
         "id": 4,
-        "categoria": [{"categoria":"Ovnis"}, {"categoria":"Extraterrestres"}],
+        "categoria": [{"categoria0":"Ovnis"}, {"categoria1":"Extraterrestres"}],
         "descripcion": "El matrimonio formado por Betty y Barney Hill alcanzó la fama al afirmar que habían sido secuestrados por alienígenas entre el 19 y el 20 de septiembre de 1961.",
         "historia": 
         [
