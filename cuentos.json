@@ -54,7 +54,7 @@
     {
         "nombre": "Abducción de los Hill",
         "id": 4,
-        "categoria": ["Ovnis", "Extraterrestres"],
+        "categoria": [{"categoria":"Ovnis"}, {"categoria":"Extraterrestres"}],
         "descripcion": "El matrimonio formado por Betty y Barney Hill alcanzó la fama al afirmar que habían sido secuestrados por alienígenas entre el 19 y el 20 de septiembre de 1961.",
         "historia": 
         [
@@ -100,7 +100,7 @@
     {
         "nombre": "La chica de la curva",
         "id": 5,
-        "categoria": ["CreepyPasta, Fantasmas"],
+        "categoria": [{"categoria0":"CreepyPasta"}, {"categoria1": "Fantasmas"}],
         "descripcion": "Existen diferentes versiones, pero todas ellas tienen un denominador común: una joven en un vestido blanco.",
         "historia": 
         [
