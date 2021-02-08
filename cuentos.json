@@ -204,5 +204,77 @@
         ],
         "fuente": "https://www.anecdonet.com/05/25/la-leyenda-de-la-historia-de-veronica/",
         "fuenteShort": "anecdonet"
+    },
+    {
+        "nombre": "La llorona",
+        "id": 11,
+        "categoria0": "Fantasmas",
+        "categoria1": "Leyendas-Urbanas",
+        "descripcion": "Se cuenta que La Llorona es una mujer que deambula por las calles de la Ciudad de México en busca de sus hijos, a los que ella misma asesinó, enloquecida, durante una noche.",
+        "historia":
+        [
+            "Se cuenta que La Llorona es una mujer que deambula por las calles de la Ciudad de México en busca de sus hijos, a los que ella misma asesinó, enloquecida, durante una noche. Dicen que aparece en lugares por donde alguna vez pasó un río. También se dice que es una mujer muy bella vestida de blanco. Otros mencionan que sólo se alcanza a ver su silueta, que flota. En lo único que coinciden es que siempre que se deja ver se escucha un largo y aterrador grito: «¡Ay, mis hijos!».",
+            "<br> Sobre el origen de esta leyenda hay varias versiones: una es la colonial, la cual se basa en las crónicas de Bernal Díaz del Castillo, quien participó en la conquista del Imperio mexica. Se cuenta que una mujer de origen indígena era amante de un caballero español y, cuando ella le pidió formalizar la relación, él se negó porque pertenecía a la alta sociedad. Este hecho desató la tragedia por la que su alma deambularía en pena.",
+            "<br> Cuentan que esa noche la mujer despertó a sus pequeños hijos –un niño y una niña–, tomó un puñal y los llevó al río, el cual se encontraba muy cerca de su casa. Estando ahí, ciega por el coraje, los apuñaló varias veces hasta que los dejó sin vida.",
+            "<br> Minutos después reaccionó y, al darse cuenta de lo que había hecho, corrió desesperada por el río y emitió el escalofriante grito por el que la identificamos.",
+            "<br> Desde esa noche no se volvió a saber más de ella y se convirtió en mito. Quienes juran haberla escuchado dicen que deambula en las calles y los parques de la Ciudad de México, además de los canales de Xochimilco."
+        ],
+        "fuente": "https://www.chilango.com/cultura/leyenda-de-la-llorona-cdmx/",
+        "fuenteShort": "chilango.com"
+    },
+    {
+        "nombre": "La niñera",
+        "id": 12,
+        "categoria0": "Leyendas-Urbanas",
+        "categoria1": "Asesinatos",
+        "descripcion": "Una pareja de casados se iban a una fiesta por la noche y llamaron a una niñera adolescente para que esta cuidara de sus tres hijos.",
+        "historia": 
+        [
+            "Una pareja de casados se iban a una fiesta por la noche y llamaron a una niñera adolescente para que esta cuidara de sus tres hijos. Cuando llegó le dijeron que probablemente no volverían hasta tarde, y que los niños ya estaban dormidos por lo que no tendría que molestarlos.",
+            "<br> La niñera comenzó a hacer las tareas del hogar mientras esperaba una llamada de su novio. Después de un rato sonó el teléfono por lo que fue cogerlo, cuando respondió, no escuchó a nadie en el otro lado, por lo que colgó. Unos minutos más tarde el teléfono volvió a sonar, lo cogió pero en vez de silencio, una voz escalofriante dijo: “¿Has comprobado que los niños están bien?” y se cortó.",
+            "<br> Al principio pensó que podría haber sido el padre para preguntar pero se le cortó la llamada, por lo que decide hacer caso omiso de ella. Ella vuelve a su tarea, a continuación, el teléfono suena de nuevo. «¿Has comprobado a los niños?” Preguntó de nuevo. <br> «¿Señor Murphy?» -pregunta, pero la persona que llama cuelga de nuevo.",
+            "<br> Ella decide llamar por teléfono al restaurante donde los padres dijeron que estarían, pero cuando pregunta por el señor Murphy le dicen que él y su esposa se habían ido del restaurante hace 45 minutos. Así que llama a la policía y les informa de que un extraño ha estado llamando y colgando. «¿Te ha amenazado?» le preguntan. No, dice ella. «Bueno, entonces no hay nada que podamos hacer con ello. Podrías tratar de informar de la llamada a la compañía de teléfonos.”",
+            "<br> Pasan unos minutos y recibe otra llamada. «¿Por qué no has comprobado los niños?» Dice la voz. <br>  «¿Quién eres?» -pregunta, pero se cuelga de nuevo. Ella marca al  911 otra vez y dice, «tengo miedo. Sé que está ahí, que me está mirando.» <br> «¿Lo has visto?» Le preguntan. Ella dice que no. «Bueno, entonces no hay mucho que podamos hacer al respecto» le contestan. La niñera entra en modo de pánico y le ruega que la ayudara.  Vamos, vamos, todo irá bien», le dicen",
+            "<br>  «Dame tu número y la dirección de la calle, y si se puede mantener este tipo en el teléfono durante al menos un minuto vamos a tratar de rastrear la llamada. ¿Cuál es tu nombre?» <br> «Linda». <br> «Está bien, Linda, si vuelve a llamar nosotros haremos nuestro mejor esfuerzo para rastrear la llamada, pero mantén la calma. ¿Puedes hacer eso por mí?»",
+            "<br> «Sí», dice ella, y cuelga. Decide mantener las luces encendidas por si puede ver al sospechoso desde la ventana, y al poco tiempo, el teléfono vuelve a sonar. <br> «Soy yo», dice la voz familiar. «¿Por qué se enciende las luces?» <br> «¿Puedes verme? «, pregunta, presa del pánico. <br> «Sí», dice después de una larga pausa. <br> «Mira, me has asustado, » dice ella. «Estoy temblando. ¿Eres feliz? ¿Es eso lo que querías?» <br> «No.» <br>  «Entonces, ¿qué es lo que quieres?», pregunta.",
+            "<br> «Entonces, ¿qué es lo que quieres?», pregunta. <br> Otra larga pausa… «Tu sangre» <br> Se cuelga el teléfono y en el mismo instante vuelve a sonar, ella llorando lo vuelve a coger y grita “¡Déjame en paz!”, pero era el policía. <br> «Linda, hemos rastreado esa llamada. Viene de otra habitación de dentro de la casa. ¡Sal de ahí!, ¡Ahora!»",
+            "<br> Ella presa de las lágrimas sale corriendo a la puerta e intenta abrirla, pero tiene la cerradura puesta, cuando va a coger las llaves mira que la puerta de la habitación de los niños de la planta superior está abierta con unos pequeños hilos de luz saliendo de ella, y puede visualizar la sombra de un hombre que está en su interior. ",
+            "<br> Cuando finalmente logra abrir la puerta, ve que hay un policía con su arma en alto, está a salvo. Cuando capturan al intruso ve que está cubierto de sangre, sube a la habitación y… los tres niños habían sido asesinados."
+        ],
+        "fuente": "https://www.leyendasdeterror.net/la-leyenda-de-la-ninera-y-el-hombre-de-arriba/",
+        "fuenteShort": "leyendasdeterror.net"
+    },
+    {
+        "nombre": "El Chupacabras",
+        "id": 13,
+        "categoria0": "Leyendas-Urbanas",
+        "descripcion": "La leyenda del chupacabras es conocida por todo el mundo y se ha hecho famosa por los supuestos ataques a los animales que habitan en zonas rurales.",
+        "historia": 
+        [
+            "La leyenda del chupacabras es conocida por todo el mundo y se ha hecho famosa por los supuestos ataques a los animales que habitan en zonas rurales.",
+            "<br> La historia de este famoso personaje se ha hecho tan popular que en muchos lugares como  Chile, Rusia, México, Estados Unidos y Filipinas han asegurado haber visto a este ente, aunque también la existencia del chupacabras se ha cuestionado por miles de años.",
+            "<br> El chupacabras tomó vida cerca del año de 1995 cerca de la isla de Puerto Rico cuando en una granja se encontraron más de ocho granjas muertas y todas tenían la mismo lesión en el pecho; fue después de dar a conocer lo anterior cuando comenzaron a salir versiones de una especie de espectro que ataca a los animales y que les dejaba una herida con forma de tres agujeros en formas de triángulo.",
+            "<br> Silverio Pérez, un  comediante y empresario puertorriqueño fue quien le dio el nombre al animal o cosa que estuviese acabando con la vida de los animales, sin embargo, aunque lleva un solo nombre y en muchos lugares se les conoce como chupacabras, este animal o ente ha sido descrito de muchas maneras.",
+            "<br> Según las personas que dicen haberlo visto, aseguran que se parecen a un oso de tamaño pequeño y con una hilera espinosa que nace de su cuello hasta su cola; muchos otros aseguran que se parece a una especie de reptil, es verde con gris y lleno de escamas.",
+            "<br> Y es que no importa de cuántas formas, tamaños y características lo describen, ya que algo que todos llegan a las mismos detalles: no tiene pelo, tiene ojos hundidos, garras y colmillos enormes; lamentablemente, hasta la fecha, no existe una serie de pruebas reales que puedan decir “sí el chupacabras existe”."
+        ],
+        "fuente": "https://laverdadnoticias.com/insolito/Historia-de-terror-El-chupacabras-INSOLITO-20191014-0216.html",
+        "fuenteShort": "laverdadnoticias.com"
+    },
+    {
+        "nombre": "El incidente del Paso Diatlov",
+        "id": 14,
+        "categoria0": "Leyendas-Urbanas",
+        "descripcion": "Este suceso tuvo lugar la madrugada del 2 de febrero de 1959 en los Montes Urales, en un área ubicada entre la República de Komi y el óblast de Sverdlovsk (Rusia). Nueve aficionados al esquí y un guía que se dirigían hacia el monte Otorten acamparon en la zona y fallecieron en extrañas circunstancias.",
+        "historia":
+        [
+            "Una de las leyendas urbanas reales más famosas es el incidente del Paso Diatlov. Este suceso tuvo lugar la madrugada del 2 de febrero de 1959 en los Montes Urales, en un área ubicada entre la República de Komi y el óblast de Sverdlovsk (Rusia) conocida como Kholat Syakhl, que en mansi significa Montaña Muerta.",
+            "<br> De acuerdo con las crónicas de la época, nueve aficionados al esquí y un guía que se dirigían hacia el monte Otorten acamparon en la zona y fallecieron en extrañas circunstancias. Los investigadores señalaron que la tienda de campaña había sido rajada desde el interior por los excursionistas, que salieron descalzos y con poca ropa al exterior, donde había una temperatura de entre -15 y -20°C. Algunos de ellos habían intentado trepar por un árbol.",
+            "<br> Además, los cadáveres mostraban signos de lucha. Dos de ellos tenían el cráneo fracturado y dos costillas rotas, a otro de ellos le faltaba parte de la cara, otro tenía el cuello roto y carecía de lengua, y otro fracturas en el pecho y le faltaban varios dientes. Cuatro de los cuerpos tenían altos niveles de radiación, según documentos posteriores. No tenían muchas heridas externas pero sí muchas internas, como si hubiesen sido impactados por un alto nivel de presión.",
+            "<br> Los investigadores no fueron capaces de determinar qué había ocasionado la muerte de los esquiadores y la atribuyeron a "una fuerza desconocida e insuperable". El sumario de la investigación permaneció en un archivo secreto hasta los años 90, cuando fue hecho público con algunas páginas perdidas.",
+            "<br> El acceso al lugar permaneció cerrado durante tres años y posteriormente pasó a llamarse Paso Diatlov en honor al líder de la expedición, Igor Diatlov, de 23 años. El incidente ha sido llevado al cine en varias ocasiones y ha protagonizado diversos documentales y libros."
+        ],
+        "fuente": "https://computerhoy.com/noticias/life/leyendas-urbanas-reales-mas-famosas-terrorificas-72291",
+        "fuenteShort": "computerhoy.com"
     }
 ]
