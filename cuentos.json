@@ -103,6 +103,7 @@
         "id": 5,
         "categoria0": "CreepyPasta",
         "categoria1": "Fantasmas",
+        "categoria2": "Leyendas Urbanas",
         "descripcion": "Existen diferentes versiones, pero todas ellas tienen un denominador común: una joven en un vestido blanco.",
         "historia": 
         [
@@ -152,6 +153,7 @@
         "nombre": "Niños de ojos negros",
         "id": 8,
         "categoria0": "CreepyPasta",
+        "categoria1":"Leyendas Urbanas",
         "descripcion": "El primero en hablar de ellos y quien popularizó la supuesta existencia de estos “niños“, fue el reportero Brian Bethel, cuando en 1996 escribió sobre el encuentro que tuvo con ellos.",
         "historia": 
         [
@@ -165,5 +167,42 @@
         ],
         "fuente": "https://culturacolectiva.com/historia/la-perturbadora-historia-de-los-ninos-de-los-ojos-negros",
         "fuenteShort": "culturacolectiva"
+    },
+    {
+        "nombre": "Un susto de muerte",
+        "id": 9,
+        "categoria0": "CreepyPasta",
+        "categoria1": "Leyendas Urbanas",
+        "descripcion": "Cuenta la historia, ambientada a principios de siglo, que varios paisanos entrada la noche, el alcohol ya había soltado las lenguas y a uno de ellos se le ocurre lanzar un desfío espeluznante.",
+        "historia": 
+        [
+            "Cuenta la historia, ambientada a principios de siglo, que varios paisanos se hallaban tomando unas copas en un bar frente al Cementerio del Cerro.",
+            "<br>Bien entrada la noche, el alcohol ya había calentado los cuerpos y soltado las lenguas de unos cuantos, que envalentonados por la bebida espirituosa comenzaron a comparar su coraje y bravura.",
+            "<br>A uno de ellos, un poco más sobrio que los demás, se le ocurre lanzar a viva voz un desafío espeluznante, asegurando que ninguno se atreverá a realizarlo. La prueba consiste en pasar el resto de la noche sentado encima de una de las lápidas de cementerio, dejando como prueba su facón clavado allí.",
+            "<br>Uno de los paisanos, más valiente o más borracho que los demás, acepta el desafío y trepa –ayudado por los demás- las rejas del cementerio. Sus compinches acuerdan ir a esperarlo a la madrugada a las puertas del lugar.",
+            "<br>Llega la mañana y el hombre jamás aparece, por lo que los intrigados paisanos entran al cementerio a buscarlo. Lo encuentran muerto sobre una lápida, con el facón clavado sobre la misma junto a una esquina de su poncho.",
+            "<br>El hombre, al sentarse, había enterrado con su cuchillo sin darse cuenta un trozo de la tela. Cuando se quiso marchar sintió que alguien lo tironeaba de la ropa, y creyendo que un espectro reclamaba su cuerpo cayó al suelo fulminado por un ataque cardíaco, sin percatarse de que se trataba simplemente de su poncho enganchado por el cuchillo."
+        ],
+        "fuente": "https://www.montevideo.com.uy/ZZZ-No-se-usa/-uc41633",
+        "fuenteShort": "montevideo.com.uy"
+    },
+    {
+        "nombre": "La leyenda de la historia de verónica",
+        "id": 10,
+        "categoria0": "Fantasmas",
+        "categoria1": "Leyendas Urbanas",
+        "descripcion": "Vanessa, es una joven de Gijón que estudia en la Universidad de Talavera. Una noche en la que estaba sola, cuatro golpes secos sonaron a su puerta, se trataba de una niña de alrededor de siete años.",
+        "historia": 
+        [
+            "Tal vez esta sea la leyenda urbana más reciente. Vanessa, es una joven de Gijón que estudia Terapia ocupacional en la Universidad de Talavera. Junto con otras dos chicas alquiló un piso en la calle de los Templarios para que los gastos fueran menores. Durante el segundo curso, Vanessa suspendió dos asignaturas y sus padres le enviaron el mes de agosto para estudiar.",
+            "<br>Una noche de verano en la que estaba sola, cuatro golpes secos sonaron a su puerta. Vanessa creyó que se trataba de algún amigo con el que salir a tomarse una copa, pero se trataba de una niña de alrededor de siete años. La niña, de hermosos tirabuzones rubios y grandes ojos castaños miró a Vanessa y le dijo que se había perdido.",
+            "<br>Vanessa le dejó entrar, le preparó un vaso de leche y le dijo que iban a ir a la policía. Verónica le rogó que no lo hiciera esa noche pues tenía mucho sueño y quería dormir. Vanessa accedió y le preparó la cama. Por la mañana temprano cuando Vanessa iba a llevarla a la policía, entró en el cuarto y vió que la niña, llamada Verónica, no estaba. Un año después en idéntica situación, la niña volvió a aparecer. Parecía que no había crecido nada.",
+            "<br>De nuevo Vanessa le preparó la cena y le dejó dormir pero al día siguiente Verónica volvió a desaparecer sin dejar rastro. Vanessa fue a la policía y dió todos los datos de la chiquilla pero no se habían producido denuncias ni nadie había reclamado una desaparición.",
+            "<br>Tras dar muchas vueltas, Vanessa llegó al Hospital de San Prudencio. Un hospicio para niños y niñas huérfanos. Allí la madre Sonsoles, le explicó que no tenían ninguna niña de esas características. Justo cuando se disponía a salir Vanessa del lugar, otra monja llegó con un calendario de dos cursos atrás. Allí estaba la foto de Verónica, tal y como Vanessa le había visto. – Sí ¡es ella! – gritó. Las dos monjas se miraron extrañadas – Verónica murió hace dos años.",
+            "<br>Aquella noche, cuatro golpes secos sonaron en la puerta de Vanessa. La muchacha observó por la mirilla de la puerta. Allí estaba de nuevo Verónica, con los brazos cruzados y cara de enfadada. – Has tardado mucho en abrirme, tengo hambre y sueño – Dijo la niña. Vanessa aterrada preparó todo como lo había hecho habitualmente. Cuando acostó a Verónica no pudo soportar el terror y entró despacio a su habitación.",
+            "<br>La niña estaba totalmente arropada. Vanessa retiró la sábana y bajo ella, como un suspiró pareció desvanecerse un cuerpecito en una nube. Sobre la almohada, con letra infantil y varias faltas había una nota «Gracias por la leche y los dulces, ahora tengo que irme a llevar al infierno a las otras tres chicas que no me dejaron entrar a sus casas.»"
+        ],
+        "fuente": "https://www.anecdonet.com/05/25/la-leyenda-de-la-historia-de-veronica/",
+        "fuenteShort": "anecdonet"
     }
 ]
